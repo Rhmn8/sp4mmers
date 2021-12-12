@@ -19,9 +19,9 @@
 
 • pkg install figlet
 
-• git clone https://github.com/Rhmn9/spammers
+• git clone https://github.com/Rhmn8/sp4mmers
 
-• cd spammers
+• cd sp4mmers
 
 • sh spammers.sh
 
