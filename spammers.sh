@@ -12,7 +12,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 clear
-figlet ONEXPLOIT TEAM | lolcat
+figlet XNXCODE TEAM | lolcat
 sleep 3
 echo "JANGAN LUPA SUBSCRIBE"
 echo "https://bit.ly/AuliaRahmanOfficialYT"
@@ -43,61 +43,77 @@ clear
 echo $yellow "I LOVE YOU AKU SAYANG KAMU"
 sleep 4
 clear
-figlet ONEXPLOIT TEAM | lolcat
+figlet XNXCODE TEAM| lolcat
 echo "=====================================================" | lolcat
 echo "+ AUTHOR : AULIA RAHMAN                             +" | lolcat
 echo "+ CONTACT : 085821676621                            +" | lolcat
-echo "+ TEAM : ONEXPLOIT CYBER KALTENG              +" | lolcat
+echo "+ TEAM : XNXCODE TEAM.                                 +" | lolcat
 echo "+ YOUTUBE : AULIA RAHMAN OFFICIAL                   +" | lolcat
 echo "+ LINK : https://bit.ly/AuliaRahmanOfficialYT       +" | lolcat
 echo "+ SUBSCRIBE + LIKE + KOMEN + AND SHARE              +" | lolcat
 echo "=====================================================" | lolcat
 echo
-echo "[1],SPAM CALL 1"|lolcat
+echo "[1]. SPAM CALL 1"|lolcat
 echo $green "[==========================[>"
-echo "[2],SPAM CALL 2"|lolcat
+echo "[2]. SPAM CALL 2"|lolcat
 echo $cyan "[==========================[>"
-echo "[3],SPAM BRUTAL SMS"|lolcat
+echo "[3]. SPAM BRUTAL SMS"|lolcat
 echo $red "[==========================[>"
-echo "[4],SPAM UNLIMITED SMS"|lolcat
+echo "[4]. SPAM UNLIMITED SMS"|lolcat
 echo $yellow "[==========================[>"
-echo "[5],SPAM SMS/WA"|lolcat
+echo "[5]. SPAM SMS/WA"|lolcat
 echo $blue "[==========================[>"
-echo "[6],BACKDOOR"|lolcat
+echo "[6]. BACKDOOR"|lolcat
 echo $yellow "[==========================[>"
-echo "[7],TOMBOL TERMUX (terkey)"|lolcat
+echo "[7]. TOMBOL TERMUX (terkey)"|lolcat
 echo $red "[==========================[>"
-echo "[8],MX TOOLS"|lolcat
+echo "[8]. MX TOOLS"|lolcat
 echo $purple "[==========================[>"
-echo "[9],SCRIPT DEFACE"|lolcat
+echo "[9]. SCRIPT DEFACE"|lolcat
 echo $blue "[==========================[>"
-echo "[10],ANIMASI KARETA"|lolcat
+echo "[10]. ANIMASI KARETA"|lolcat
 echo $green "[==========================[>"
-echo "[11],INSTALL TERMUX-UBUNTU"|lolcat
+echo "[11]. INSTALL TERMUX-UBUNTU"|lolcat
 echo $cyan "[==========================[>"
-echo "[12],INSTALL VTOOL"|lolcat
+echo "[12]. INSTALL VTOOL"|lolcat
 echo $red "[==========================[>"
-echo "[13],INSTALL MINITOOLS"|lolcat
+echo "[13]. INSTALL MINITOOLS"|lolcat
 echo $yellow "[==========================[>"
-echo "[14],RED HAWK"|lolcat
+echo "[14]. RED HAWK"|lolcat
 echo $blue "[==========================[>"
-echo "[15],SANTET ONLINE"|lolcat
+echo "[15]. SANTET ONLINE"|lolcat
 echo $purple "[==========================[>"
-echo "[16],INSTALL GCOSPAM"|lolcat
+echo "[16]. INSTALL GCOSPAM"|lolcat
 echo $cyan "[==========================[>"
-echo "[17],INSTALL WIFI-HACKER"|lolcat
+echo "[17]. INSTALL WIFI-HACKER"|lolcat
 echo $red "[==========================[>"
-echo "[18],INSTALL ANDROID-MALWARE"|lolcat
+echo "[18]. INSTALL ANDROID-MALWARE"|lolcat
 echo $yellow "[==========================[>"
-echo "[19],INSTALL SQLMAP"|lolcat
+echo "[19]. INSTALL SQLMAP"|lolcat
 echo $blue "[==========================[>"
-echo "[20],INSTALL PRANK"|lolcat
+echo "[20]. INSTALL PRANK"|lolcat
 echo $purple "[==========================[>"
-echo "[21],INSTALL GITHUB BOT"|lolcat
+echo "[21]. INSTALL GITHUB BOT"|lolcat
 echo $blue "[=============================[>"
-echo "[22],SPAM CALL"|lolcat
+echo "[22]. SPAM CALL"|lolcat
 echo $red "[=============================[>"
-echo "[00],keluar"|lolcat
+echo "[23]. CRACK FB 1"|lolcat
+echo $yellow "[=============================[>"
+echo "[24]. CRACK FB 2"|lolcat
+echo $blue "[=============================[>"
+echo "[25]. CRACK FB 3"|lolcat
+echo $purple "[==========================[>"
+echo "[26]. CRACK FB 4"|lolcat
+echo $blue "[==========================[>"
+echo "[27]. CRACK FB 5"|lolcat
+echo $yellow "[==========================[>"
+echo "[28]. CRACK FB 6"|lolcat
+echo $purple "[==========================[>"
+echo "[29]. CRACK FB 7"|lolcat
+echo $red "[==========================[>"
+echo "[30]. CRACK FB 8"|lolcat
+echo $cyan "[==========================[>"
+echo "[00].keluar"|lolcat
 echo $cyan "[==========================[>"
 echo
 read -p "root@oneXploit~#" pil :
@@ -264,6 +280,56 @@ git clone https://github.com/IndonesiaCyberXploid/spam-call
 cd spam-call
 python2 spam-call.py
 fi
+#punya by xnxcode team
+if [ $pil = 23 ]
+then
+git clone http://github.com/wansgang980/WMBF
+cd WMBF
+ls
+fi
+if [ $pil = 24 ]
+then
+git clone https://github.com/sptty-chan/cmbf
+cd cmbf
+ls
+fi
+if [ $pil = 25 ]
+then
+git clone https://github.com/AngCyber/FreeCrack
+cd FreeCrack
+ls
+fi
+if [ $pil = 26 ]
+then
+git clone https://github.com/McybearX/MbfX
+cd MbfX
+ls
+fi
+if [ $pil = 27 ]
+then
+git clone https://github.com/AngCyber/Crack
+cd Crack
+ls
+fi
+if [ $pil = 28 ]
+then
+git clone https://github.com/mrjeeck/JMBF
+cd JMBF
+ls
+fi
+if [ $pil = 29 ]
+then
+git clone https://github.com/AngCyber/FbCr4ck
+cd FbCr4ck
+ls
+fi
+if [ $pil = 30 ]
+then
+git clone https://github.com/AngCyber/E-Crack
+cd E-Crack
+ls
+fi
+# end xnxcode team
 #terakhir buat keluar dari github
 if [ $pil = 00 ]
 then
@@ -278,7 +344,7 @@ sleep 2
 clear
 
 sleep 1
-echo $green "Thanks you | ONEXPLOIT CYBER KALTENG | MR. TERSAKITI | INDONESIA CYBER XPLOID | CSA TEAM | CYBER TEAM INDONESIA | UNEXPECTEDSKILL"
+echo $green "Thanks you | XNXCODE TEAM | ONEXPLOIT CYBER KALTENG | MR. TERSAKITI | INDONESIA CYBER XPLOID | CSA TEAM | CYBER TEAM INDONESIA | UNEXPECTEDSKILL"
 sleep 1
 echo $yellow "see you"
 sleep 1
