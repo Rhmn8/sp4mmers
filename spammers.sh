@@ -1,5 +1,7 @@
 #!/system/xbin/bash
 #author : rahman ganz
+#github : github.com/Rhmn8
+#website me : https://onexploitkalteng.mwebs.id/index.php
 #Youtube : https://bit.ly/AuliaRahmanOfficialYT
 
 
@@ -12,7 +14,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 clear
-figlet XNXCODE TEAM | lolcat
+figlet KALTENG X TEAM | lolcat
 sleep 3
 echo "JANGAN LUPA SUBSCRIBE"
 echo "https://bit.ly/AuliaRahmanOfficialYT"
@@ -43,11 +45,11 @@ clear
 echo $yellow "I LOVE YOU AKU SAYANG KAMU"
 sleep 4
 clear
-figlet XNXCODE TEAM| lolcat
+figlet KALTENG X TEAM| lolcat
 echo "=====================================================" | lolcat
 echo "+ AUTHOR : AULIA RAHMAN                             +" | lolcat
 echo "+ CONTACT : 085821676621                            +" | lolcat
-echo "+ TEAM : XNXCODE TEAM.                                 +" | lolcat
+echo "+ TEAM : KALTENG X TEAM                                +" | lolcat
 echo "+ YOUTUBE : AULIA RAHMAN OFFICIAL                   +" | lolcat
 echo "+ LINK : https://bit.ly/AuliaRahmanOfficialYT       +" | lolcat
 echo "+ SUBSCRIBE + LIKE + KOMEN + AND SHARE              +" | lolcat
@@ -116,7 +118,7 @@ echo $cyan "[==========================[>"
 echo "[00].keluar"|lolcat
 echo $cyan "[==========================[>"
 echo
-read -p "root@oneXploit~#" pil :
+read -p "root@skyoneXploit~#" pil :
 
 #untuk script nya ya kak
 if [ $pil = 1 ]
@@ -280,6 +282,8 @@ git clone https://github.com/IndonesiaCyberXploid/spam-call
 cd spam-call
 python2 spam-call.py
 fi
+#end
+
 #punya by xnxcode team
 if [ $pil = 23 ]
 then
@@ -330,6 +334,7 @@ cd E-Crack
 ls
 fi
 # end xnxcode team
+
 #terakhir buat keluar dari github
 if [ $pil = 00 ]
 then
