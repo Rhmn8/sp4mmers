@@ -3,7 +3,7 @@
 
 
 # author : rahman ganz
-# team   : xnxcode team
+# team   : sky team
 # whatsapp : 085821676621
 # github : github.com/Rhmn8
 
@@ -20,11 +20,11 @@ yellow='\033[33;1m'
 
 clear
 
-echo "XNXCODE TEAM"|figlet
+echo "SKYONE TEAM"|figlet
 
 echo "======================================"|lolcat
 echo "+ AUTHOR    : AULIA RAHMAN           +"|lolcat
-echo "+ TEAM      : XNXCODE                +"|lolcat
+echo "+ TEAM      : SKYONE                +"|lolcat
 echo "+ GITHUB    : github.com/Rhmn8       +"|lolcat
 echo "+ WHATSAPP  : 085821676621           +"|lolcat
 echo "+ INSTAGRAM : @rahman_annivers       +"|lolcat
